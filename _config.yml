@@ -17,7 +17,7 @@ timezone: Europe/Lisbon
 # --------------------------
 title: Mauricio Prates                       # the main title
 
-tagline: Mauricio Prates personal notes.    # it will display as the sub-title
+tagline: My personal notes.    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Personal notes, hopefully it can help others. 
