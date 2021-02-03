@@ -2,7 +2,7 @@
 title: Alacritty
 date: 2021-02-02 22:30:00 +0000
 categories: [Linux, Terminal]
-tags: [terminal rust]     # TAG names should always be lowercase
+tags: [terminal]     # TAG names should always be lowercase
 ---
 
 # A fast, cross-platform, OpenGL terminal emulator
