@@ -12,7 +12,7 @@ Caso seja necessário acessar um edge do NSX por SSH será necessário seguir o 
 * Logar no NSX manager com a senha do usuário admin `ssh admin@<Endereço IP>` -> Nome ou IP do NSX Manager (Ex.: *nsxmgr.seu.dominio*). A senha do usuário admin foi definida na intalação do NSX Manager.
 
 * Elevar-se para o modo privilegiado usando o comando `enable`.
-* O comando `start engineer` deve ser usado para cair no bash do NSX Manager.
+* O comando `start engineer` deve ser usado para acessar o bash do NSX Manager.
 * Após aceitar o aviso, a senha  **IAmOnThePhoneWithTechSupport** deve ser usada.
 * Para listar a senha de admin de todos os edges use:
 
