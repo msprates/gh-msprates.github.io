@@ -38,7 +38,7 @@ Password: IAmOnThePhoneWithTechSupport
 [root@nsxmgr ~]# /home/secureall/secureall/sem/WEB-INF/classes/./GetSpockEdgePassword.sh edge-992
 Edge root password:
 	edge-992	-> pjPg3VEgOaP*L
-[root@nsxnsxmgr1mgr002p ~]# /home/secureall/secureall/sem/WEB-INF/classes/./GetCliUserEdgePassword.sh edge-992
+[root@nsxmgr ~]# /home/secureall/secureall/sem/WEB-INF/classes/./GetCliUserEdgePassword.sh edge-992
 Edge cli user password:
 	edge-992	-> admin/wIdq9R%IBP7C
 	edge-992	-> admin/wIdq9R%IBP7C
