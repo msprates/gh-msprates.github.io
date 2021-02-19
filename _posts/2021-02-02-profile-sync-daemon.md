@@ -1,6 +1,6 @@
 ---
 title: Profile Sync Daemon
-date: 2021-02-02 10:21:00 +0000
+date: 2021-02-02 22:21:00 +0000
 categories: [Linux, Dicas]
 tags: [browser]     # TAG names should always be lowercase
 ---

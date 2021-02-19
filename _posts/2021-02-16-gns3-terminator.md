@@ -1,7 +1,7 @@
 ---
 title: GNS3 & Terminator
 date: 2021-02-11 10:00:00 +0000
-categories: [Linux, GNS3]
+categories: [GNS3]
 tags: [tips]
 ---
 
